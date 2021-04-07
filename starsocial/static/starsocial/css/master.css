@@ -1,0 +1,18 @@
+html, body {
+			margin-top:0px;
+			overflow: hidden;
+			background-color: #eeeeee;
+		}
+
+
+.title-homepage{
+    font-family: 'Rambla', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+/* navigation */
+.mynav{
+    font-family: 'Staatliches', cursive;
+    font-size:25px;
+}
