@@ -1,6 +1,6 @@
 html, body {
 			margin-top:0px;
-			overflow: hidden;
+			overflow: scroll;
 			background-color: #eeeeee;
 		}
 
@@ -15,4 +15,21 @@ html, body {
 .mynav{
     font-family: 'Staatliches', cursive;
     font-size:25px;
+
+}
+
+.test-text{
+    font-family: 'Rambla', sans-serif;
+}
+
+.content{
+    font-family: 'Rambla', sans-serif;
+}
+
+.btn-user{
+    background:black;
+}
+
+.btn-dang{
+    color:black;
 }
